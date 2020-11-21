@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg3587"
+   sodipodi:docname="logo.svg"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)">
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1366"
+     inkscape:window-height="705"
+     id="namedview3494"
+     showgrid="false"
+     inkscape:zoom="0.4792789"
+     inkscape:cx="396.85039"
+     inkscape:cy="477.80113"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs3581" />
+  <metadata
+     id="metadata3584">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="layer1"
+     transform="translate(17.113383,-97.711896)">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:19.6907px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.49227"
+       x="41.519321"
+       y="131.14128"
+       id="text3591"
+       transform="scale(0.9330093,1.0718007)"><tspan
+         id="tspan3589"
+         x="41.519321"
+         y="131.14128"
+         style="stroke-width:0.49227">F L O   M</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:19.6907px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.49227"
+       x="95.387756"
+       y="116.09182"
+       id="text3595"
+       transform="scale(0.9330093,1.0718007)"><tspan
+         id="tspan3593"
+         x="95.387756"
+         y="116.09182"
+         style="stroke-width:0.49227">O</tspan></text>
+  </g>
+</svg>

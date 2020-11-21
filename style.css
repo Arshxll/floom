@@ -1,0 +1,105 @@
+body {
+	background-color: #e6f7ff;
+}
+.logo {
+  text-align: center;
+  height: 100px;
+
+
+}
+
+.section {
+	text-align: center;
+	padding: 10px;
+  color: black;
+  background: linear-gradient(-45deg, #ffb3b3, #cce6ff, #ffccff);
+  background-size: 400% 400%;
+  position:relative;
+  animation: change 10s ease-in-out infinite;
+  width:100%;
+}
+@keyframes change {
+  0% {
+    background-position: 0 50%;
+  }
+   58% {
+    background-position: 100% 50%;
+  }
+   100% {
+    background-position: 0 50%;
+  }
+}
+.cloud1 {
+	animation: move 4s infinite linear;
+	position: relative;
+	height: 100px;
+	margin-top: -900px;
+	margin-bottom: -300px;
+	width: 200px;
+}
+.cloud:before {
+	content: '';
+
+}
+.cloud:after {
+	content: '';
+}
+@keyframes move 
+{ 
+0% {
+	transform: translate(0);
+	
+}
+60% 
+{
+	transform: translate(60px);
+	
+}
+100%
+ {
+	transform: translate(100px);
+	
+}
+}
+.mcs {
+	justify-content: center;
+	align-items: center;
+	display: flex;
+	position: relative;
+}
+.deco {
+	justify-content: center;
+	align-items: center;
+		margin-top: -900px;
+	margin-bottom: 0%;
+}
+.insect{
+	animation: fly 20s infinite linear;
+	position: relative;
+
+
+}
+.insect:before {
+	content: '';
+
+}
+.insect:after {
+	content: '';
+}
+@keyframes fly
+{ 
+50% {
+	transform: translate(0);
+	
+}
+0% 
+{
+	transform: translate(60px);
+	
+}
+100%
+ {
+	transform: translate(100px);
+	
+}
+}
